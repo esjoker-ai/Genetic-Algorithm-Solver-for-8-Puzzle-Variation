@@ -46,5 +46,22 @@ Each board is represented as a 1D list of 9 integers ranging from 0 to 8. The go
 ---
 
 ## 🖥️ Output Example
+Initialized Population
+[1, 2, 5]
+[3, 6, 0]
+[4, 7, 8]
+Fitness: 4
+
+...
+
+Solved Board is: [1, 2, 3, 4, 5, 6, 7, 8, 0]
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/genetic-8puzzle.git
+   cd genetic-8puzzle
+   python main.py
 
 
